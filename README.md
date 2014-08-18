@@ -13,7 +13,7 @@ allprojects {
     repositories {
         mavenCentral()
         maven {
-            url 'https://github.com/tvbarthel/maven/raw/master/'
+            url 'https://github.com/tvbarthel/maven/tree/master/'
         }
         ...
     }
