@@ -13,7 +13,7 @@ allprojects {
     repositories {
         mavenCentral()
         maven {
-            url 'https://github.com/tvbarthel/maven/tree/master/'
+            url 'https://github.com/tvbarthel/maven/raw/master/'
         }
         ...
     }
@@ -32,7 +32,7 @@ Add the following lines to the build.gradle of your module :
 ```javascript
 dependencies {
     ...
-    compile 'fr.tvbarthel.lib.blurdialogfragment:lib:0.0.4@aar'
+    compile 'fr.tvbarthel.lib.blurdialogfragment:lib:0.0.5@aar'
     compile 'com.android.support:appcompat-v7:19.+'
     ...
 }
