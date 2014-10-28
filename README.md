@@ -33,7 +33,7 @@ Add the following lines to the build.gradle of your module :
 dependencies {
     ...
     compile 'fr.tvbarthel.lib.blurdialogfragment:lib:0.1.1@aar'
-    compile 'com.android.support:appcompat-v7:19.+'
+    compile 'com.android.support:appcompat-v7:21.0.+'
     ...
 }
 ```
