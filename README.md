@@ -32,7 +32,7 @@ Add the following lines to the build.gradle of your module :
 ```javascript
 dependencies {
     ...
-    compile 'fr.tvbarthel.lib.blurdialogfragment:lib:0.0.9@aar'
+    compile 'fr.tvbarthel.lib.blurdialogfragment:lib:0.1.1@aar'
     compile 'com.android.support:appcompat-v7:19.+'
     ...
 }
