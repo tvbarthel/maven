@@ -1,3 +1,9 @@
+Deprecated
+=====
+
+This repo is deprecated. 
+Our open source libraries are now available on maven central.
+
 Maven
 =====
 
